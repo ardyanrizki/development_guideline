@@ -1,14 +1,19 @@
 # Main Principles
 
-## Lesson-learned-first
+> ## Lesson-learned-first
 
 ## What we strive
-- User and data oriented
-- Performance
-- Accessibility
-- Accountability
+:white_check_mark: **User and data oriented**
 
-##What we’re going against
-- Counter-productive cosmetics
-- Expensive functionalities
-- Unmeasured improvements
+:white_check_mark: **Performance**
+
+:white_check_mark: **Accessibility**
+
+:white_check_mark: **Accountability**
+
+## What we’re going against
+:x: **Counter-productive cosmetics**
+
+:x: **Expensive functionalities**
+
+:x: **Unmeasured improvements**
