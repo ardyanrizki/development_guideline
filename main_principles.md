@@ -1,8 +1,8 @@
-#Main Principles
+# Main Principles
 
-##Lesson-learned-first
+## Lesson-learned-first
 
-##What we strive
+## What we strive
 - User and data oriented
 - Performance
 - Accessibility
