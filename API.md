@@ -4,7 +4,8 @@
 
 * **URL**
 
-  <_The URL Structure (path only, no root url)_>
+  **Standard Formatting**
+  `/rest/<api-version:>/<service-name>/<endpoint>/<required-params>?<optional-query:'key=value'>`
 
 * **Method:**
   
